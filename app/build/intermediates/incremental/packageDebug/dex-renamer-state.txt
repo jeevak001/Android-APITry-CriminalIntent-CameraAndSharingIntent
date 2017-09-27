@@ -1,0 +1,7 @@
+#Sun Sep 24 15:21:37 IST 2017
+base.0=/Users/jeeva/Desktop/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_47aeece73818336b332a1f781f39add45274debc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jeeva/Desktop/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8e1e06bb0836c2003ca2a1f3f5acb293684369ae/classes.dex
+base.1=/Users/jeeva/Desktop/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8e1e06bb0836c2003ca2a1f3f5acb293684369ae
+file.0=/Users/jeeva/Desktop/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_47aeece73818336b332a1f781f39add45274debc/classes.dex

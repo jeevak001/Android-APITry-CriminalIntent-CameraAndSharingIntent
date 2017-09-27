@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jeeva/Desktop/CriminalIntent/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c67d52afb90ee46d8232a0415bce8f594ab5bc19">
+        <dex dex="/Users/jeeva/Desktop/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_47aeece73818336b332a1f781f39add45274debc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeeva/Desktop/CriminalIntent/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jeeva/Desktop/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8e1e06bb0836c2003ca2a1f3f5acb293684369ae/classes.dex" />
+    </item>
+
+</items>
